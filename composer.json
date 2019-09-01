@@ -1,0 +1,24 @@
+{
+    "name": "luxio/framework",
+    "authors": [{
+        "name": "AkshayKhale",
+        "email": "akshaykhale@gmail.com"
+    }, {
+        "name": "SaudQureshi",
+        "email": "saudken52@gmail.com"
+    }],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Luxio\\": "src/"
+        }
+    },
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "php": ">=7.1",
+        "ext-swoole": ">=2.0",
+        "psr/container": "^1.0"
+    }
+}
