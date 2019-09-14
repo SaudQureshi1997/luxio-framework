@@ -1,6 +1,6 @@
 <?php
 
-namespace Luxio\Contracts;
+namespace elphis\Contracts;
 
 interface RequestInterface
 {

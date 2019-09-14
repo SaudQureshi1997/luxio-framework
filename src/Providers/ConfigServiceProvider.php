@@ -1,8 +1,8 @@
 <?php
 
-namespace Luxio\Providers;
+namespace elphis\Providers;
 
-use Luxio\Utils\Config;
+use elphis\Utils\Config;
 
 class ConfigServiceProvider extends ServiceProvider
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Luxio\Utils;
+namespace elphis\Utils;
 
 use Closure;
 use Psr\Container\ContainerInterface;
-use Luxio\Exceptions\{ContainerException, BindingResolutionException};
+use elphis\Exceptions\{ContainerException, BindingResolutionException};
 
 class Container implements ContainerInterface
 {

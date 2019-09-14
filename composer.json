@@ -1,5 +1,5 @@
 {
-    "name": "luxio/framework",
+    "name": "elphis/framework",
     "authors": [{
         "name": "AkshayKhale",
         "email": "akshaykhale@gmail.com"
@@ -12,7 +12,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "Luxio\\": "src/"
+            "elphis\\": "src/"
         }
     },
     "require": {

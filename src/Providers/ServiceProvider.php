@@ -1,9 +1,9 @@
 <?php
 
-namespace Luxio\Providers;
+namespace elphis\Providers;
 
-use Luxio\Contracts\ServiceProviderInterface;
-use Luxio\Utils\Container;
+use elphis\Contracts\ServiceProviderInterface;
+use elphis\Utils\Container;
 
 abstract class ServiceProvider implements ServiceProviderInterface
 {

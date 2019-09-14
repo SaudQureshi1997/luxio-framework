@@ -1,8 +1,8 @@
 <?php
 
-namespace Luxio\Support\Facades;
+namespace elphis\Support\Facades;
 
-use Luxio\Utils\Config as ConfigCore;
+use elphis\Utils\Config as ConfigCore;
 
 class Config extends Facade
 {

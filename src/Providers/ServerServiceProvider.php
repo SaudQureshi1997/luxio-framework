@@ -1,9 +1,9 @@
 <?php
 
-namespace Luxio\Providers;
+namespace elphis\Providers;
 
-use Luxio\Providers\ServiceProvider;
-use Luxio\Utils\Config;
+use elphis\Providers\ServiceProvider;
+use elphis\Utils\Config;
 use Swoole\Http\Server;
 
 class ServerServiceProvider extends ServiceProvider

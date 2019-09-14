@@ -1,6 +1,6 @@
 <?php
 
-namespace Luxio\Exceptions;
+namespace elphis\Exceptions;
 
 use Psr\Container\ContainerExceptionInterface;
 use Exception;

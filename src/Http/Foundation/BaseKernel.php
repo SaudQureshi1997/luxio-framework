@@ -1,8 +1,8 @@
 <?php
 
-namespace Luxio\Http\Foundation;
+namespace elphis\Http\Foundation;
 
-use Luxio\Utils\Container;
+use elphis\Utils\Container;
 use Swoole\Http\Server;
 use Swoole\Http\Request;
 use Swoole\Http\Response;
@@ -13,7 +13,7 @@ abstract class BaseKernel
 
     /**
      * creates the swoole server
-     * @return \Luxio\Http\BasKernel
+     * @return \elphis\Http\BasKernel
      */
     public static function createServer()
     {

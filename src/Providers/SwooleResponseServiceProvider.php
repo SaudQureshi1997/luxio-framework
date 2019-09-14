@@ -1,6 +1,6 @@
 <?php
 
-namespace Luxio\Providers;
+namespace elphis\Providers;
 
 use Swoole\Http\Request;
 use Swoole\Http\Response;

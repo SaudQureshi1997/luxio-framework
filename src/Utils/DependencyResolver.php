@@ -1,10 +1,10 @@
 <?php
 
-namespace Luxio\Utils;
+namespace elphis\Utils;
 
 use ReflectionMethod;
 use ReflectionClass;
-use Luxio\Exceptions\BindingResolutionException;
+use elphis\Exceptions\BindingResolutionException;
 
 class DependencyResolver
 {
