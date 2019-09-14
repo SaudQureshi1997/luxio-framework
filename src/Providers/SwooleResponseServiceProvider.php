@@ -1,6 +1,6 @@
 <?php
 
-namespace elphis\Providers;
+namespace Elphis\Providers;
 
 use Swoole\Http\Request;
 use Swoole\Http\Response;

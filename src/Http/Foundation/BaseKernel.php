@@ -1,8 +1,8 @@
 <?php
 
-namespace elphis\Http\Foundation;
+namespace Elphis\Http\Foundation;
 
-use elphis\Utils\Container;
+use Elphis\Utils\Container;
 use Swoole\Http\Server;
 use Swoole\Http\Request;
 use Swoole\Http\Response;

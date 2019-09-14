@@ -1,8 +1,8 @@
 <?php
 
-namespace elphis\Support\Facades;
+namespace Elphis\Support\Facades;
 
-use elphis\Utils\Config as ConfigCore;
+use Elphis\Utils\Config as ConfigCore;
 
 class Config extends Facade
 {

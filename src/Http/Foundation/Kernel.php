@@ -1,12 +1,12 @@
 <?php
 
-namespace elphis\Http\Foundation;
+namespace Elphis\Http\Foundation;
 
-use elphis\Utils\Container;
+use Elphis\Utils\Container;
 use Swoole\Http\{Server, Request, Response};
-use elphis\Http\{Routing\Router, Foundation\BaseKernel};
+use Elphis\Http\{Routing\Router, Foundation\BaseKernel};
 use Config;
-use elphis\Utils\Logger;
+use Elphis\Utils\Logger;
 
 final class Kernel extends BaseKernel
 {

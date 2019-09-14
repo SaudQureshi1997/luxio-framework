@@ -12,7 +12,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "elphis\\": "src/"
+            "Elphis\\": "src/"
         }
     },
     "require": {

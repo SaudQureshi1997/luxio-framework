@@ -1,10 +1,10 @@
 <?php
 
-namespace elphis\Http\Routing;
+namespace Elphis\Http\Routing;
 
 use FastRoute\Dispatcher;
 use FastRoute\RouteCollector;
-use elphis\Utils\DependencyResolver;
+use Elphis\Utils\DependencyResolver;
 
 /**
  * Custom Router class working around nikic/fastroute

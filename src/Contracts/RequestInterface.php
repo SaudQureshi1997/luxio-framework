@@ -1,6 +1,6 @@
 <?php
 
-namespace elphis\Contracts;
+namespace Elphis\Contracts;
 
 interface RequestInterface
 {

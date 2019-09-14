@@ -1,8 +1,8 @@
 <?php
 
-namespace elphis\Providers;
+namespace Elphis\Providers;
 
-use elphis\Utils\Config;
+use Elphis\Utils\Config;
 
 class ConfigServiceProvider extends ServiceProvider
 {

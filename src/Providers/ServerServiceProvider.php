@@ -1,9 +1,9 @@
 <?php
 
-namespace elphis\Providers;
+namespace Elphis\Providers;
 
-use elphis\Providers\ServiceProvider;
-use elphis\Utils\Config;
+use Elphis\Providers\ServiceProvider;
+use Elphis\Utils\Config;
 use Swoole\Http\Server;
 
 class ServerServiceProvider extends ServiceProvider

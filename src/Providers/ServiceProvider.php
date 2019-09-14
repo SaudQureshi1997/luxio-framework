@@ -1,9 +1,9 @@
 <?php
 
-namespace elphis\Providers;
+namespace Elphis\Providers;
 
-use elphis\Contracts\ServiceProviderInterface;
-use elphis\Utils\Container;
+use Elphis\Contracts\ServiceProviderInterface;
+use Elphis\Utils\Container;
 
 abstract class ServiceProvider implements ServiceProviderInterface
 {

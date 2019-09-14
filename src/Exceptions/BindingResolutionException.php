@@ -1,6 +1,6 @@
 <?php
 
-namespace elphis\Exceptions;
+namespace Elphis\Exceptions;
 
 use Psr\Container\NotFoundExceptionInterface;
 use Exception;

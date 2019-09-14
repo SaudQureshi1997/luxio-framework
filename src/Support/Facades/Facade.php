@@ -1,8 +1,8 @@
 <?php
 
-namespace elphis\Support\Facades;
+namespace Elphis\Support\Facades;
 
-use elphis\Utils\Container;
+use Elphis\Utils\Container;
 use BadMethodCallException;
 use RuntimeException;
 

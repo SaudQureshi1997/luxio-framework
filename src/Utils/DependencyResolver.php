@@ -1,10 +1,10 @@
 <?php
 
-namespace elphis\Utils;
+namespace Elphis\Utils;
 
 use ReflectionMethod;
 use ReflectionClass;
-use elphis\Exceptions\BindingResolutionException;
+use Elphis\Exceptions\BindingResolutionException;
 
 class DependencyResolver
 {

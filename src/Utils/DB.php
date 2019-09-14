@@ -1,6 +1,6 @@
 <?php
 
-namespace elphis\Utils;
+namespace Elphis\Utils;
 
 use Config;
 use Swoole\Coroutine\MySQL;

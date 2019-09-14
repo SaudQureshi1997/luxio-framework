@@ -1,10 +1,10 @@
 <?php
 
-namespace elphis\Utils;
+namespace Elphis\Utils;
 
 use Closure;
 use Psr\Container\ContainerInterface;
-use elphis\Exceptions\{ContainerException, BindingResolutionException};
+use Elphis\Exceptions\{ContainerException, BindingResolutionException};
 
 class Container implements ContainerInterface
 {
